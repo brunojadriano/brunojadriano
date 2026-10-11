@@ -76,13 +76,20 @@ Aplicação web para gerenciamento de tarefas, desenvolvida com foco em organiza
 ## Contribuições
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/galaga-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/galaga-contribution-graph.svg"
+    >
+    <img
+      alt="Nave arcade atirando nos blocos das minhas contribuições no GitHub"
+      src="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/galaga-contribution-graph.svg"
+    >
+  </picture>
 </div>
 
 <img
