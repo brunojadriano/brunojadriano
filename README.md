@@ -36,8 +36,6 @@ Aplicação web para gerenciamento de tarefas, desenvolvida com foco em organiza
 
 `React` `TypeScript` `Astro` `PostgREST` `PostgreSQL`
 
----
-
 ## Tecnologias
 
 **Linguagens e Runtime**
@@ -70,8 +68,6 @@ Aplicação web para gerenciamento de tarefas, desenvolvida com foco em organiza
 ![NGINX](https://img.shields.io/badge/NGINX-2563EB?style=flat-square&logo=nginx&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
-
----
 
 ## Contribuições
 
