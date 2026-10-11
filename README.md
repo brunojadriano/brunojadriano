@@ -1,3 +1,11 @@
+<!--
+  Identidade visual — Blue Theme
+  Navy Blue:  #0B1F3A
+  Dark Blue:  #164E8C
+  Royal Blue: #2563EB
+  Sky Blue:   #38BDF8
+-->
+
 <div align="center">
 
 <img
