@@ -1,53 +1,84 @@
-<h1 align="center">
-  Bruno J. Adriano
-</h1>
-
-<p align="center">
-  <code>Software Engineer</code> • <code>TypeScript</code> • <code>Java</code>
-</p>
-
-<p align="center">
-  Construindo soluções simples para problemas complexos
-</p>
-
----
-
 <div align="center">
 
-<!-- Languages / Runtime -->
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,45:164E8C,75:2563EB,100:38BDF8&height=220&section=header&text=Bruno%20J.%20Adriano&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58"
+  alt="Bruno J. Adriano"
+/>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+**Desenvolvendo soluções simples para problemas complexos.**
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-<!-- Infrastructure / Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+`TypeScript` · `JavaScript` · `Java`
 
 </div>
 
+## Sobre mim
+
+Sou desenvolvedor Full Stack com experiência profissional em aplicações web, atuando no frontend, backend, bancos de dados e infraestrutura.
+
+Tenho experiência com JavaScript e TypeScript, desenvolvimento de APIs REST, otimização de consultas SQL e automação de processos.
+
+Atualmente curso Sistemas para Internet na UNIVALI e estou aprofundando meus conhecimentos em Java, Spring Boot e Engenharia de Software.
+
+## Projetos
+
+### [Munus](https://github.com/AdrianousDev/Munus)
+
+Aplicação web para gerenciamento de tarefas, desenvolvida com foco em organização, produtividade e arquitetura Full Stack.
+
+`React` `TypeScript` `Astro` `PostgREST` `PostgreSQL`
+
 ---
 
+## Tecnologias
+
+**Linguagens e Runtime**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-164E8C?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-164E8C?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-164E8C?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-164E8C?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Frontend e Backend**
+
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-2563EB?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-2563EB?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=flat-square&logo=springboot&logoColor=white)
+
+**Bancos de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-164E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-164E8C?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-164E8C?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-164E8C?style=flat-square&logo=redis&logoColor=white)
+
+**Infraestrutura e Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=flat-square&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-2563EB?style=flat-square&logo=nginx&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Contribuições
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianousDev/AdrianousDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianousDev/AdrianousDev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianousDev/AdrianousDev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/brunojadriano/brunojadriano/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,45:164E8C,75:2563EB,100:38BDF8&height=100&section=footer"
+  alt="Footer"
+/>
