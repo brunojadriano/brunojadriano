@@ -22,11 +22,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com experiência profissional em aplicações web, atuando no frontend, backend, bancos de dados e infraestrutura.
+Sou desenvolvedor Full Stack com experiência profissional no desenvolvimento de aplicações web, atuando no frontend, backend, bancos de dados e infraestrutura.
 
-Tenho experiência com JavaScript e TypeScript, desenvolvimento de APIs REST, otimização de consultas SQL e automação de processos.
+Trabalho principalmente com JavaScript, TypeScript, React e Node.js, desenvolvendo APIs REST e aplicando boas práticas de desenvolvimento, organização de código e manutenção de sistemas. Também possuo experiência com otimização de consultas SQL, automação de processos e serviços AWS.
 
-Atualmente curso Sistemas para Internet na UNIVALI e estou aprofundando meus conhecimentos em Java, Spring Boot e Engenharia de Software.
+Atualmente curso Sistemas para Internet na UNIVALI e busco aprofundar meus conhecimentos em Arquitetura de Software, Design de APIs, escalabilidade e desenvolvimento de aplicações eficientes e sustentáveis.
 
 ## Projetos
 
